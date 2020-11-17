@@ -11,7 +11,7 @@
 
 <p align="center">
   <a>
-    <img alt="Repo Size" title="Repo Size" src="https://img.shields.io/github/repo-size/danilodecanini/github-explorer?color=%23999"">
+    <img alt="Repo Size" title="Repo Size" src="https://img.shields.io/github/repo-size/danilodecanini/github_explorer?color=%23999"">
   </a>
 
   <a>
